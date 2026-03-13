@@ -2,7 +2,7 @@
 
 Bu proje, kişisel projelerimi, deneyimlerimi ve yazılım serüvenimi sergilediğim, modern bir arayüze sahip duyarlı (responsive) bir portfolyo web sitesidir. Tamamen HTML5 ve CSS3 kullanılarak geliştirilmiştir.
 
-![Hakkımda Bölümü](Ekran%20görüntüsü%202026-03-11%20144249.png)
+<img width="1919" height="1079" alt="Ekran görüntüsü 2026-03-11 144249" src="https://github.com/user-attachments/assets/719300a3-e45b-4638-be46-928f093b01d4" />
 
 ## ✨ Özellikler
 
@@ -15,7 +15,7 @@ Bu proje, kişisel projelerimi, deneyimlerimi ve yazılım serüvenimi sergiledi
 
 Portfolyo üzerinde detaylarını görebileceğiniz başlıca projelerim:
 
-![Projeler Bölümü](Ekran%20görüntüsü%202026-03-11%20144303.jpg)
+<img width="1919" height="1079" alt="Ekran görüntüsü 2026-03-11 144303" src="https://github.com/user-attachments/assets/69f1b8cb-a402-42a2-bbda-4b00dd065fcc" />
 
 1. **S@TRAT E-Ticaret Sitesi:** Standart e-ticaret mantığını yıkan, siberpunk ve RPG elementleriyle donatılmış Full-Stack web uygulaması.
 2. **Karanlık Zindan: Ultimate Edition:** Tarayıcı üzerinde çalışan, derin RPG mekaniklerine, roguelite elementlerine ve köy kurma sistemine sahip karanlık fantezi sıra tabanlı oyun.
@@ -31,7 +31,8 @@ Portfolyo üzerinde detaylarını görebileceğiniz başlıca projelerim:
 
 Ziyaretçilerin doğrudan bana e-posta gönderebilmesini sağlayan entegre iletişim formu:
 
-![İletişim Bölümü](Ekran%20görüntüsü%202026-03-11%20144314.png)
+<img width="1919" height="1079" alt="Ekran görüntüsü 2026-03-11 144314" src="https://github.com/user-attachments/assets/aa95783d-ad82-4261-801c-270e885a7df9" />
+
 
 Projelerim hakkında konuşmak, iş birliği yapmak veya sadece merhaba demek isterseniz bana ulaşabilirsiniz:
 
